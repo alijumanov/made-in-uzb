@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.97a374de.css",
+    "main.js": "/static/js/main.bb170a7a.js",
+    "static/media/Munis2.mp4": "/static/media/Munis2.c0498ea804b1cfabe83a.mp4",
+    "static/media/audio.mp3": "/static/media/audio.3e09d124836abd7a5266.mp3",
+    "static/media/contacts.png": "/static/media/contacts.6af213ef4fd0c037de1c.png",
+    "static/media/lenta.png": "/static/media/lenta.72b65c10f36bedd25b46.png",
+    "static/media/bgimg.png": "/static/media/bgimg.7098e8e43e334b384ebc.png",
+    "static/media/CraftworkGrotesk400.ttf": "/static/media/CraftworkGrotesk400.42212bb7af99378667b0.ttf",
+    "static/media/CraftworkGrotesk700.ttf": "/static/media/CraftworkGrotesk700.e494898819920470eb26.ttf",
+    "static/media/CraftworkGrotesk500.ttf": "/static/media/CraftworkGrotesk500.13ebb050477e22fc6737.ttf",
+    "static/media/CraftworkGrotesk600.ttf": "/static/media/CraftworkGrotesk600.68be035f3cd39bd6ada5.ttf",
+    "static/media/CraftworkGrotesk900.ttf": "/static/media/CraftworkGrotesk900.89ab72f2e12509a19843.ttf",
+    "static/media/zonapro.ttf": "/static/media/zonapro.61c5fe8dd34ded2c8e53.ttf",
+    "static/media/zonapro1.ttf": "/static/media/zonapro1.2f2229f01ae7b35cd628.ttf",
+    "static/media/p1.png": "/static/media/p1.b427795243e197a13fff.png",
+    "static/media/p2.png": "/static/media/p2.7c3ca1cee84345951b62.png",
+    "static/media/p3.png": "/static/media/p3.def663d28a09aac83bb1.png",
+    "static/media/furniture.png": "/static/media/furniture.2e7ddf8720a112e65279.png",
+    "index.html": "/index.html",
+    "static/media/money.svg": "/static/media/money.c04e3fd381a04a60545aade5366bd2b9.svg",
+    "static/media/car.svg": "/static/media/car.37ad2160182ade9425bf82a872318a06.svg",
+    "static/media/support.svg": "/static/media/support.c3ac8fe27839444d23686e2b3891cb4a.svg",
+    "static/media/payment.svg": "/static/media/payment.2edd522a6d1e736f9642a40e9e15a32c.svg",
+    "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "static/media/burgerblack.svg": "/static/media/burgerblack.16914054735871a8c811d0de13f98af5.svg",
+    "main.97a374de.css.map": "/static/css/main.97a374de.css.map",
+    "main.bb170a7a.js.map": "/static/js/main.bb170a7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97a374de.css",
+    "static/js/main.bb170a7a.js"
+  ]
+}
